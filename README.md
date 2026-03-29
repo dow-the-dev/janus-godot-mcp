@@ -5,7 +5,7 @@ A lightweight, Go-based Model Context Protocol (MCP) server designed to act as a
 ## Building the Server
 To compile the server into an executable, run this in the project directory:
 ```bash
-go build -o janus-mcp.exe main.go
+go build -o janus-mcp.exe .
 ```
 
 ## Launch janus manually
